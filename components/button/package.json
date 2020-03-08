@@ -1,0 +1,17 @@
+{
+  "name": "@bit/eden-github-slack-int.intergration.button",
+  "version": "0.0.2",
+  "homepage": "https://bit.dev/eden-github-slack-int/intergration/button",
+  "main": "dist/index.js",
+  "dependencies": {
+    "react": "^16.13.0"
+  },
+  "devDependencies": {},
+  "peerDependencies": {},
+  "license": "SEE LICENSE IN LICENSE",
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/compilers/react@1.0.14"
+    }
+  }
+}
