@@ -1,6 +1,6 @@
 {
   "name": "@bit/eden-github-slack-int.intergration.button",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://bit.dev/eden-github-slack-int/intergration/button",
   "main": "dist/index.js",
   "dependencies": {
